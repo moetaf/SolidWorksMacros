@@ -8,6 +8,6 @@ https://help.solidworks.com/2024/english/SolidWorks/sldworks/t_assigning_macro_t
 
 The macro code can be fode inside each macro folder in the file that has the same name as the folder without spaces + "Code" at the end.
 
-Example in the macro folder named "Export Part Flat Patterns", the code file will have the name "ExportPartFlatPatternsCode".
+Example, in the macro folder named "Export Part Flat Patterns", the code file will have the name "ExportPartFlatPatternsCode".
 
 All code are free for reuse under the MIT License.
